@@ -17,4 +17,5 @@ Languages and Tools🛠
 <br />
 
 Find me 👇🏻
+
 <a href="https://www.linkedin.com/in/lucas-louren%C3%A7o-7b6970144/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:lucaslc987654@gmail.com"><img src="https://img.shields.io/badge/gmail-%23ff3333.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://www.instagram.com/lucaslc112"><img src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
