@@ -2,7 +2,7 @@
 <h2> Hi there! my name is Lucas 👋 </h2>
 </div>
 
-🌱 I'm Front-end developer from Brazil :brazil:
+🌱 I'm Front-end developer from Brazil 🇧🇷
 
 ⚡ I like to explore new technologies and develop software solutions
 
