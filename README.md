@@ -14,7 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslc11&layout=compact&theme=dracula&title_color=3385ff)](https://github.com/anuraghazra/github-readme-stats)
 
-## Languages and Tools🛠
+### Languages and Tools🛠
 
 <div>
   <img align="center" alt="Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,7 +30,7 @@
 
 <br />
 
-## Find me 👇🏻
+### Find me 👇🏻
 
 <div>
   <a href="https://www.linkedin.com/in/lucas-louren%C3%A7o-7b6970144/">
