@@ -12,7 +12,8 @@
 
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?lucaslc11=anuraghazra&show_icons=true&dracula=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslc11&show_icons=true&theme=dracula)
+
 
 Languages and Tools🛠
 
