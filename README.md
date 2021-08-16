@@ -14,15 +14,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslc11&layout=compact&theme=dracula&title_color=3385ff)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
 Languages and Tools🛠
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C) ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass&logoColor=#CF649A)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<div>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+</div>
 
 <br />
 
