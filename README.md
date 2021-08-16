@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hi there! my name is Lucas 👋 </h2>
+<h2> Hi there! I'm Lucas 👋 </h2>
 </div>
 
 🌱 I'm Front-end developer from Brazil!
